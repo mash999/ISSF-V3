@@ -13,7 +13,7 @@ The repository is made with Angular.
 **Note:** If you have downloaded the folder instead of cloning it from your terminal, you may have to `cd` to the folder and run `git init` to initialize it as a git repo.
 
 
-## Before You Upload
+## Upload to Server
 
 Once your code is submitted and merged with the master branch, you can upload the files to the server. 
 Create the distribution files by running 
