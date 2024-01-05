@@ -1,8 +1,8 @@
-# ISSF Frontend
+## ISSF Frontend
 
 The repository is made with Angular. 
 
-## Installation
+### Installation
 
 1. Clone or download the folder
 2. Run `npm install`
@@ -13,7 +13,7 @@ The repository is made with Angular.
 **Note:** If you have downloaded the folder instead of cloning it from your terminal, you may have to `cd` to the folder and run `git init` to initialize it as a git repo.
 
 
-## Upload to Server
+### Upload to Server
 
 Once your code is submitted and merged with the master branch, you can upload the files to the server. 
 Create the distribution files by running 
@@ -27,7 +27,7 @@ Once the build process is completed, upload the files in the `dist` folder to th
 
 Made with Laravel
 
-## Installation
+### Installation
 
 Once you have cloned the repository, you can run:
 
